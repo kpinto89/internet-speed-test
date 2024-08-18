@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="175660f3-9f07-4f99-b5ad-e3eb19efa359" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/network-test-client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-client/.idea/internet-speed-test-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-client/src/component/NetworkTest.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-server/src/main/java/com/example/demo/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-server/src/main/java/com/example/demo/controller/NetworkTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-test-server/src/main/java/com/example/demo/service/NetworkTestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/network-test-client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/network-test-client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/migrations/add_pgcrypto_application_user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/src/main/java/com/example/demo/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/src/main/java/com/example/demo/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/src/main/java/com/example/demo/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/src/main/java/com/example/demo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/src/main/java/com/example/demo/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-client/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/network-test-server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/network-test-server/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/network-test-server/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/migrations/add_pgcrypto_application_user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/network-test-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/src/main/java/com/example/demo/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/src/main/java/com/example/demo/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/src/main/java/com/example/demo/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/src/main/java/com/example/demo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/src/main/java/com/example/demo/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-test-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/network-test-server/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/network-test-server" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kbp9aRMiVNMVpbZxyzCyPVQDI8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/KVP/Documents/Projects/network-test/network-test-client",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="175660f3-9f07-4f99-b5ad-e3eb19efa359" name="Changes" comment="" />
+      <created>1723561980129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723561980129</updated>
+    </task>
+    <servers />
+  </component>
+</project>
